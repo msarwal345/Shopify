@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.rightside img{
+    border-radius: 30px;
+}
+.rightside{
+    margin-top: 55px;
+}
+.leftside p{
+   margin-bottom: -7px;
+}
+.leftside{
+    margin-top: 65px;
+    margin-right: 250px;
+}
+.scrollable-text {
+    height: 200px; /* Set the desired height for your scrollable text container */   
+    padding-right:150px;
+    padding-left: 100px;
+    /* Add padding for better readability */
+  }
+  
